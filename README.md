@@ -37,4 +37,4 @@ Further development could include:
 * Thanks to the Building AI course for providing the foundation and resources to learn about neural networks and machine learning techniques.
 * Data inspiration was drawn from publicly available real estate datasets, though this model uses synthetic data for simplicity and testing.
 
-* "Cabin Price Prediction Image by John Doe" / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+* "Cabin Price Prediction Image by John Doe" 
