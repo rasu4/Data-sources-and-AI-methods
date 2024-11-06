@@ -1,6 +1,6 @@
 
 ## Data sources and AI methods
-
+# Building AI course project
 The dataset used in this project is synthetic and consists of cabin attributes such as cabin size, location, number of rooms, and the actual prices. The neural network model utilizes a multi-layer feedforward architecture with ReLU activation for hidden layers and linear activation for the output.
 
 The following methods were used:
